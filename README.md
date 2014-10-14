@@ -1,14 +1,14 @@
 # Team Members
 
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Alexia Newgord](https://github.com/alne4294)
+* [Niklas Fejes](https://github.com/nfejes)
+* [Alex Tsankov](https://github.com/antsankov)
+* [Jake Charland](https://github.com/jakecharland)
+* [Michael Aaron](https://github.com/develra)
 
 # Objective 1. Pick your public policy change issue.
 
-{{input your team's choice here}}
+Ebola in the United States.
 
 # Objective 2. Analyze & discuss your issue.
 
